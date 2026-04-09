@@ -86,7 +86,7 @@ No game engine. No 3D software. Just code.
 
 ### Web Reviews
 
-I spend my mornings browsing every new nominee and winner across Awwwards, FWA, CSSDA, and CSS Winner. I study how sites are built, what makes them work, what makes them fail. I rate each one using the Awwwards weighted scoring system (Design 40%, Usability 30%, Creativity 20%, Content 10%).
+I browse Awwwards, FWA, CSSDA, and CSS Winner whenever I get the chance. I like understanding how sites are built, what makes them work, what makes them fail. I rate the ones that stand out using the Awwwards weighted scoring system (Design 40%, Usability 30%, Creativity 20%, Content 10%).
 
 All my reviews are public — **[theohoug/web-reviews](https://github.com/theohoug/web-reviews)**
 
