@@ -9,7 +9,7 @@ Normandie, France.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/cleanlystudio.fr-000000?style=flat-square&logo=safari&logoColor=white)](https://cleanlystudio.fr)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/cleanlystudio.pro-000000?style=flat-square&logo=safari&logoColor=white)](https://cleanlystudio.pro)&nbsp;&nbsp;
 [![fade.run](https://img.shields.io/badge/fade.run-000000?style=flat-square&logo=safari&logoColor=C9A96E)](https://fade.run)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-houguet/)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/@cleanlystudio-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cleanlystudio)
@@ -84,6 +84,61 @@ No game engine. No 3D software. Just code.
 
 <br>
 
+### Web Reviews
+
+I spend my mornings browsing every new nominee and winner across Awwwards, FWA, CSSDA, and CSS Winner. I study how sites are built, what makes them work, what makes them fail. I rate each one using the Awwwards weighted scoring system (Design 40%, Usability 30%, Creativity 20%, Content 10%).
+
+All my reviews are public — **[theohoug/web-reviews](https://github.com/theohoug/web-reviews)**
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="280">
+<sub>BEST OF THE WEEK</sub>
+<br><br>
+<strong><a href="https://shader.se">shader.se</a></strong>
+<br>
+<sub>Overall <strong>8.55</strong></sub>
+<br>
+<sub>Awwwards</sub>
+</td>
+<td align="center" width="280">
+<sub>BEST OF THE MONTH</sub>
+<br><br>
+<strong><a href="https://igloo.inc">igloo.inc</a></strong>
+<br>
+<sub>Overall <strong>9.30</strong></sub>
+<br>
+<sub>Awwwards SOTY 2024</sub>
+</td>
+<td align="center" width="280">
+<sub>BEST OF THE YEAR</sub>
+<br><br>
+<strong><a href="https://igloo.inc">igloo.inc</a></strong>
+<br>
+<sub>Overall <strong>9.30</strong></sub>
+<br>
+<sub>Awwwards SOTY 2024</sub>
+</td>
+</tr>
+</table>
+
+<!-- UPDATE: Change the sites above when a new top score is reached -->
+<!-- Week = highest score in the last 7 days -->
+<!-- Month = highest score in the current month -->
+<!-- Year = highest score in 2026 -->
+
+</div>
+
+<br>
+
+---
+
+<br>
+
 ### Stack
 
 <br>
@@ -120,7 +175,7 @@ No game engine. No 3D software. Just code.
 
 ### Open Source
 
-**[web-reviews](https://github.com/theohoug/web-reviews)**&ensp;—&ensp;Daily reviews of the best websites across Awwwards, FWA, and CSSDA.
+**[web-reviews](https://github.com/theohoug/web-reviews)**&ensp;—&ensp;Daily reviews of the best websites across Awwwards, FWA, CSSDA, and CSS Winner.
 
 **[ytmusic-mcp](https://github.com/theohoug/ytmusic-mcp)**&ensp;—&ensp;MCP server for YouTube Music. Search, create and manage playlists from Claude Code.
 
@@ -136,8 +191,8 @@ No game engine. No 3D software. Just code.
 
 <br>
 
-[![Email](https://img.shields.io/badge/contact@cleanlystudio.fr-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@cleanlystudio.fr)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/cleanlystudio.fr-000000?style=flat-square&logo=safari&logoColor=C9A96E)](https://cleanlystudio.fr)
+[![Email](https://img.shields.io/badge/contact@cleanlystudio.pro-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@cleanlystudio.pro)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/cleanlystudio.pro-000000?style=flat-square&logo=safari&logoColor=C9A96E)](https://cleanlystudio.pro)
 
 <br>
 
