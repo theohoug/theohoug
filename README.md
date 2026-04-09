@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="850" alt="Theo Houguet — Creative Developer" />
+<img src="assets/header.svg" width="850" alt="Cleanlystudio — Creative Development" />
 
 <br><br>
 
@@ -9,7 +9,7 @@ Normandie, France.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/cleanlystudio.com-000000?style=flat-square&logo=safari&logoColor=white)](https://cleanlystudio.com)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/cleanlystudio.fr-000000?style=flat-square&logo=safari&logoColor=white)](https://cleanlystudio.fr)&nbsp;&nbsp;
 [![fade.run](https://img.shields.io/badge/fade.run-000000?style=flat-square&logo=safari&logoColor=C9A96E)](https://fade.run)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-houguet/)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/@cleanlystudio-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/cleanlystudio)
@@ -30,39 +30,28 @@ Normandie, France.
 
 <table>
 <tr>
-<td align="center" width="210">
+<td align="center" width="280">
 <img src="https://img.shields.io/badge/AWWWARDS-000000?style=for-the-badge" />
 <br><br>
 <strong>Honorable Mention</strong>
-<br>
-<sub>Creativity 9.68 · Design 9.10</sub>
-<br>
-<sub>Usability 8.21 · Content 8.75</sub>
 <br><br>
 <sub>Event Horizon</sub>
 </td>
-<td align="center" width="210">
+<td align="center" width="280">
 <img src="https://img.shields.io/badge/CSS_WINNER-000000?style=for-the-badge" />
 <br><br>
 <strong>Site of the Day</strong>
-<br><br><br>
+<br>
+<sub>April 8, 2026</sub>
+<br><br>
 <sub>Event Horizon</sub>
 </td>
-<td align="center" width="210">
+<td align="center" width="280">
 <img src="https://img.shields.io/badge/CSSDA-000000?style=for-the-badge" />
 <br><br>
 <strong>UI · UX · Innovation</strong>
 <br>
 <sub>3 Awards</sub>
-<br><br>
-<sub>Event Horizon</sub>
-</td>
-<td align="center" width="210">
-<img src="https://img.shields.io/badge/FWA-000000?style=for-the-badge" />
-<br><br>
-<strong>Nominated</strong>
-<br>
-<sub>Live judging</sub>
 <br><br>
 <sub>Event Horizon</sub>
 </td>
@@ -145,8 +134,8 @@ No game engine. No 3D software. Just code.
 
 <br>
 
-[![Email](https://img.shields.io/badge/houguet.theo@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:houguet.theo@gmail.com)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/cleanlystudio.com-000000?style=flat-square&logo=safari&logoColor=C9A96E)](https://cleanlystudio.com)
+[![Email](https://img.shields.io/badge/contact@cleanlystudio.fr-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@cleanlystudio.fr)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/cleanlystudio.fr-000000?style=flat-square&logo=safari&logoColor=C9A96E)](https://cleanlystudio.fr)
 
 <br>
 
