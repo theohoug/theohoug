@@ -94,42 +94,70 @@ All my reviews are public — **[theohoug/web-reviews](https://github.com/theoho
 
 <div align="center">
 
+<!-- TODAY'S PICK — the big one -->
 <table>
 <tr>
-<td align="center" width="280">
+<td align="center" width="840">
+<br>
+<img src="https://img.shields.io/badge/TODAY'S_PICK-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+<h3><a href="https://shader.se">shader.se</a></h3>
+<br>
+
+| Design | Usability | Creativity | Content | **Overall** |
+|:------:|:---------:|:----------:|:-------:|:----------:|
+| 9.2 | 7.5 | 9.5 | 8.0 | **8.55** |
+
+Insane shader work. Every transition is flawless, the visual quality is on another level.
+<br><br>
+<a href="https://github.com/theohoug/web-reviews/blob/main/reviews/2026-04.md#april-9"><img src="https://img.shields.io/badge/Read_full_review-000000?style=flat-square" /></a>
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- WEEK / MONTH / YEAR -->
+<table>
+<tr>
+<td align="center" width="270">
 <sub>BEST OF THE WEEK</sub>
 <br><br>
 <strong><a href="https://shader.se">shader.se</a></strong>
 <br>
 <sub>Overall <strong>8.55</strong></sub>
-<br>
-<sub>Awwwards</sub>
+<br><br>
+<a href="https://github.com/theohoug/web-reviews/blob/main/reviews/2026-04.md#april-9"><img src="https://img.shields.io/badge/Review-000000?style=flat-square" /></a>
 </td>
-<td align="center" width="280">
+<td align="center" width="270">
 <sub>BEST OF THE MONTH</sub>
 <br><br>
 <strong><a href="https://igloo.inc">igloo.inc</a></strong>
 <br>
 <sub>Overall <strong>9.30</strong></sub>
-<br>
-<sub>Awwwards SOTY 2024</sub>
+<br><br>
+<a href="https://github.com/theohoug/web-reviews/blob/main/reviews/2026-04.md#april-8"><img src="https://img.shields.io/badge/Review-000000?style=flat-square" /></a>
 </td>
-<td align="center" width="280">
+<td align="center" width="270">
 <sub>BEST OF THE YEAR</sub>
 <br><br>
 <strong><a href="https://igloo.inc">igloo.inc</a></strong>
 <br>
 <sub>Overall <strong>9.30</strong></sub>
-<br>
-<sub>Awwwards SOTY 2024</sub>
+<br><br>
+<a href="https://github.com/theohoug/web-reviews/blob/main/reviews/2026-04.md#april-8"><img src="https://img.shields.io/badge/Review-000000?style=flat-square" /></a>
 </td>
 </tr>
 </table>
 
-<!-- UPDATE: Change the sites above when a new top score is reached -->
-<!-- Week = highest score in the last 7 days -->
-<!-- Month = highest score in the current month -->
-<!-- Year = highest score in 2026 -->
+<!-- UPDATE GUIDE:
+- TODAY'S PICK: change every day with your best find
+- BEST OF THE WEEK: highest overall score from the last 7 days
+- BEST OF THE MONTH: highest overall score of the current month
+- BEST OF THE YEAR: highest overall score of 2026
+- Review links: point to the correct date anchor in reviews/2026-04.md
+-->
 
 </div>
 
