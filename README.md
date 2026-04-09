@@ -94,29 +94,12 @@ All my reviews are public — **[theohoug/web-reviews](https://github.com/theoho
 
 <div align="center">
 
-<!-- TODAY'S PICK — the big one -->
-<table>
-<tr>
-<td align="center" width="840">
-<br>
-<img src="https://img.shields.io/badge/TODAY'S_PICK-58a6ff?style=for-the-badge&labelColor=0d1117" />
-<br><br>
-<h3><a href="https://shader.se">shader.se</a></h3>
-<br>
+<!-- TODAY'S PICK — animated SVG banner -->
+<a href="https://github.com/theohoug/web-reviews/blob/main/reviews/2026-04.md#april-9">
+  <img src="assets/todays-pick.svg" width="840" alt="Today's Pick — shader.se — 8.55" />
+</a>
 
-| Design | Usability | Creativity | Content | **Overall** |
-|:------:|:---------:|:----------:|:-------:|:----------:|
-| 9.2 | 7.5 | 9.5 | 8.0 | **8.55** |
-
-Insane shader work. Every transition is flawless, the visual quality is on another level.
 <br><br>
-<a href="https://github.com/theohoug/web-reviews/blob/main/reviews/2026-04.md#april-9"><img src="https://img.shields.io/badge/Read_full_review-000000?style=flat-square" /></a>
-<br><br>
-</td>
-</tr>
-</table>
-
-<br>
 
 <!-- WEEK / MONTH / YEAR -->
 <table>
@@ -151,13 +134,7 @@ Insane shader work. Every transition is flawless, the visual quality is on anoth
 </tr>
 </table>
 
-<!-- UPDATE GUIDE:
-- TODAY'S PICK: change every day with your best find
-- BEST OF THE WEEK: highest overall score from the last 7 days
-- BEST OF THE MONTH: highest overall score of the current month
-- BEST OF THE YEAR: highest overall score of 2026
-- Review links: point to the correct date anchor in reviews/2026-04.md
--->
+<!-- UPDATE: Change todays-pick.svg content when you review a new top site -->
 
 </div>
 
