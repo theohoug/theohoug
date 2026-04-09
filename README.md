@@ -120,6 +120,8 @@ No game engine. No 3D software. Just code.
 
 ### Open Source
 
+**[web-reviews](https://github.com/theohoug/web-reviews)**&ensp;—&ensp;Daily reviews of the best websites across Awwwards, FWA, and CSSDA.
+
 **[ytmusic-mcp](https://github.com/theohoug/ytmusic-mcp)**&ensp;—&ensp;MCP server for YouTube Music. Search, create and manage playlists from Claude Code.
 
 <br>
